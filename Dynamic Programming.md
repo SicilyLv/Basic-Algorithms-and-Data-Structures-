@@ -10,3 +10,5 @@ https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.ht
 
 #Example
 1, question is located in: https://practice.geeksforgeeks.org/problems/count-subsequences-of-type-ai-bj-ck/0
+2, answer
+
