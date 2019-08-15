@@ -1,1 +1,2 @@
-# Learning stepsBasic Algorithms and Data Structures
+# Learning steps
+Basic Algorithms and Data Structures
