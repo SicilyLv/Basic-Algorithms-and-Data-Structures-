@@ -1,6 +1,6 @@
-##Why we use Python?
-###You could write a Unix shell script or Windows batch files for some of these tasks, but shell scripts are best at moving around files and changing text data, not well-suited for GUI applications or games. 
-####Python is simple to use, but it is a real programming language, offering much more structure and support for large programs than shell scripts or batch files can offer. 
+## Why we use Python?
+### You could write a Unix shell script or Windows batch files for some of these tasks, but shell scripts are best at moving around files and changing text data, not well-suited for GUI applications or games. 
+#### Python is simple to use, but it is a real programming language, offering much more structure and support for large programs than shell scripts or batch files can offer. 
 ###You could write a C/C++/Java program, but it can take a lot of development time to get even a first-draft program.
 ####Python also offers much more error checking than C, and, being a very-high-level language, it has high-level data types built in, such as flexible arrays and dictionaries.
 
