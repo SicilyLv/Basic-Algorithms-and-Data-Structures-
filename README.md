@@ -1,2 +1,4 @@
-# Learning steps
-Basic Algorithms and Data Structures
+## 开始学习的状态：Python基础语法已掌握，无较大项目经验，开发能力基本停留在理论阶段
+## 目标： 能用Python做一些实用的小项目（有特定目的的），拥有自己一的一份学习历程，然后顺利找到工作
+
+# 口号是：不经历风雨，哪来的彩虹！
